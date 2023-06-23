@@ -1,0 +1,11 @@
+C:\Users\naufa\source\repos\Software-Engineering-Project2\SE Project\bin\Debug\SE Project.exe.config
+C:\Users\naufa\source\repos\Software-Engineering-Project2\SE Project\bin\Debug\SE Project.exe
+C:\Users\naufa\source\repos\Software-Engineering-Project2\SE Project\bin\Debug\SE Project.pdb
+C:\Users\naufa\source\repos\Software-Engineering-Project2\SE Project\obj\Debug\SE Project.csproj.AssemblyReference.cache
+C:\Users\naufa\source\repos\Software-Engineering-Project2\SE Project\obj\Debug\SE Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\naufa\source\repos\Software-Engineering-Project2\SE Project\obj\Debug\SE_Project.Form_Client.resources
+C:\Users\naufa\source\repos\Software-Engineering-Project2\SE Project\obj\Debug\SE_Project.Properties.Resources.resources
+C:\Users\naufa\source\repos\Software-Engineering-Project2\SE Project\obj\Debug\SE Project.csproj.GenerateResource.cache
+C:\Users\naufa\source\repos\Software-Engineering-Project2\SE Project\obj\Debug\SE Project.csproj.CoreCompileInputs.cache
+C:\Users\naufa\source\repos\Software-Engineering-Project2\SE Project\obj\Debug\SE Project.exe
+C:\Users\naufa\source\repos\Software-Engineering-Project2\SE Project\obj\Debug\SE Project.pdb

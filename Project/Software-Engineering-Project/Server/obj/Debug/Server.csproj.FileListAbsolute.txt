@@ -1,0 +1,11 @@
+C:\Users\naufa\Source\Repos\Software-Engineering-Project\Server\bin\Debug\Server.exe.config
+C:\Users\naufa\Source\Repos\Software-Engineering-Project\Server\bin\Debug\Server.exe
+C:\Users\naufa\Source\Repos\Software-Engineering-Project\Server\bin\Debug\Server.pdb
+C:\Users\naufa\Source\Repos\Software-Engineering-Project\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\naufa\Source\Repos\Software-Engineering-Project\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\naufa\Source\Repos\Software-Engineering-Project\Server\obj\Debug\Server.Form_Server.resources
+C:\Users\naufa\Source\Repos\Software-Engineering-Project\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\naufa\Source\Repos\Software-Engineering-Project\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\naufa\Source\Repos\Software-Engineering-Project\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\naufa\Source\Repos\Software-Engineering-Project\Server\obj\Debug\Server.exe
+C:\Users\naufa\Source\Repos\Software-Engineering-Project\Server\obj\Debug\Server.pdb
