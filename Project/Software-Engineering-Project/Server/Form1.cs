@@ -325,7 +325,7 @@ namespace Server
                 richTextBox_Display.Paste();
                 richTextBox_Display.AppendText(Environment.NewLine);
             }));
-            //MessagePopup(" ", Pengguna.body);
+            MessagePopup(" ", Pengguna.body);
         }
 
         private void DisplayMessage(string message, Pengguna user)
