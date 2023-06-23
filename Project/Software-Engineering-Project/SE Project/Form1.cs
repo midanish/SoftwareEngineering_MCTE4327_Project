@@ -276,8 +276,8 @@ namespace SE_Project
                 Clipboard.SetImage(image);
                 richTextBox_Display.Paste();
                 richTextBox_Display.AppendText(Environment.NewLine);
-
             }));
+            MessagePopup(" ", Pengguna.body);
         }
 
         private void DisplayMessage(string message, Pengguna user)
